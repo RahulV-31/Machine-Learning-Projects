@@ -77,6 +77,12 @@ The project goals include:
 
 ---
 
+Colab Notebook
+
+   Explore the full implementation of this project in the Colab Notebook<[insert-your-colab-link-here](https://colab.research.google.com/drive/1k4mq1GoxqfHP9u5bVxv2W0Gegzd3QbBm?usp=sharing)>.
+
+ ---
+
 # 2. House-Price-Prediction
 Project Overview
 This project focuses on:
@@ -145,4 +151,9 @@ The project goals include:
 - Libraries:  
   - Data Analysis: Pandas, NumPy  
   - Visualization: Matplotlib, Seaborn  
-  - Machine Learning: scikit-learn  
+  - Machine Learning: scikit-learn
+ 
+Colab Notebook
+
+   Explore the full implementation of this project in the Colab Notebook<[insert-your-colab-link-here](https://colab.research.google.com/drive/18DbCWPpkjYvJ7xinQU74vJtjFwE-eNjV?usp=sharing)>
+
