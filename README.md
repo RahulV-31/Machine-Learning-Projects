@@ -79,7 +79,7 @@ The project goals include:
 
 Colab Notebook
 
-   Explore the full implementation of this project in the <[Colab Notebook](https://colab.research.google.com/drive/1k4mq1GoxqfHP9u5bVxv2W0Gegzd3QbBm?usp=sharing)>.
+   Explore the full implementation of this project in the [Colab Notebook](https://colab.research.google.com/drive/1k4mq1GoxqfHP9u5bVxv2W0Gegzd3QbBm?usp=sharing).
 
  ---
 
@@ -155,5 +155,5 @@ The project goals include:
  
 Colab Notebook
 
-   Explore the full implementation of this project in the <[Colab Notebook](https://colab.research.google.com/drive/18DbCWPpkjYvJ7xinQU74vJtjFwE-eNjV?usp=sharing)>
+   Explore the full implementation of this project in the [Colab Notebook](https://colab.research.google.com/drive/18DbCWPpkjYvJ7xinQU74vJtjFwE-eNjV?usp=sharing).
 
